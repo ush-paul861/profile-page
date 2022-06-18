@@ -1,0 +1,13 @@
+.size{
+    height: 30px;
+    width: 30px;
+    margin-right: .5cm;
+}
+
+.edit{
+    background-color: rgb(60, 58, 58);
+    height: 1cm;
+}
+.nav{
+    margin-left: 1cm;
+}
